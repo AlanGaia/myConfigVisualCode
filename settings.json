@@ -1,0 +1,40 @@
+{
+  "explorer.confirmDelete": false,
+  // "editor.fontSize": 18,
+  "window.zoomLevel": 0,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorCustomizations": {
+      "list.inactiveSelectionForeground": "#ffffff",
+      "list.inactiveFocusBackground": "#b81212",
+      "tab.activeBackground": "#6f00ff1c",
+      "scrollbarSlider.activeBackground": "#edfafcee",
+      "tab.activeBorder": "#9900ff",
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[json]": {
+  
+  },
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Dobri Next -C05- Electron",
+  "editor.tabSize": 2,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": [
+      "seleccione"
+  ],
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "launch": {
+  
+      "configurations": [],
+      "compounds": []
+  }
+}
